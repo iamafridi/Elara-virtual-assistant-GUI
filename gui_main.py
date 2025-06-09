@@ -239,8 +239,6 @@ class ModernVoiceAssistant:
 
 if __name__ == "__main__":
     ModernVoiceAssistant().run()
-
-
 # *** Main Design ***
 
 # import tkinter as tk
